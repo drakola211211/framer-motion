@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/framer-motion/static/css/main.b47682fc.chunk.css",
+    "main.js": "/framer-motion/static/js/main.2c45fb2b.chunk.js",
+    "main.js.map": "/framer-motion/static/js/main.2c45fb2b.chunk.js.map",
+    "runtime-main.js": "/framer-motion/static/js/runtime-main.74842f80.js",
+    "runtime-main.js.map": "/framer-motion/static/js/runtime-main.74842f80.js.map",
+    "static/js/2.67ab179c.chunk.js": "/framer-motion/static/js/2.67ab179c.chunk.js",
+    "static/js/2.67ab179c.chunk.js.map": "/framer-motion/static/js/2.67ab179c.chunk.js.map",
+    "index.html": "/framer-motion/index.html",
+    "static/css/main.b47682fc.chunk.css.map": "/framer-motion/static/css/main.b47682fc.chunk.css.map",
+    "static/js/2.67ab179c.chunk.js.LICENSE.txt": "/framer-motion/static/js/2.67ab179c.chunk.js.LICENSE.txt",
+    "static/media/planet1.d99cb8d7.svg": "/framer-motion/static/media/planet1.d99cb8d7.svg",
+    "static/media/planet3.a52c9902.svg": "/framer-motion/static/media/planet3.a52c9902.svg",
+    "static/media/planet4.78a79cee.svg": "/framer-motion/static/media/planet4.78a79cee.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74842f80.js",
+    "static/js/2.67ab179c.chunk.js",
+    "static/css/main.b47682fc.chunk.css",
+    "static/js/main.2c45fb2b.chunk.js"
+  ]
+}
